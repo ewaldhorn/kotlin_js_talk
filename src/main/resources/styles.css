@@ -3,3 +3,10 @@ html {
   font-size: 30px;
   background: #f7f6f4;
 }
+
+canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
